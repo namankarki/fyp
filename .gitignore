@@ -1,0 +1,13 @@
+stubs/*
+!stubs/.gitkeep
+
+models/*
+!models/.gitkeep
+
+runs/*
+!runs/.gitkeep
+
+output_videos/*
+!output_videos/.gitkeep
+
+yolov8x.pt
